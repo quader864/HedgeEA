@@ -33,5 +33,6 @@
 
 ## 🔐 Authorization
 
-Before any trading actions take place, the EA verifies the user by sending a POST request to:
+Before any trading actions take place, the EA verifies the user by sending a  request to:
+https://api-verifier.onrender.com/
 
