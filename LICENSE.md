@@ -1,8 +1,18 @@
-# GNU General Public License v3.0
+                    GNU GENERAL PUBLIC LICENSE
+                       Version 3, 29 June 2007
 
-Copyright © 2025-2026 Alireza Kiani (quader864)
+ Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+ Everyone is permitted to copy and distribute verbatim copies
+ of this license document, but changing it is not allowed.
 
-HedgeEA - Expert Advisor for faster and safer trades
+                            Preamble
+
+  The GNU General Public License is a free, copyleft license for
+software and other kinds of works.
+
+... (full text continues)
+
+Copyright (C) 2025-2026 Alireza Kiani (quader864)
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -11,18 +21,8 @@ the Free Software Foundation, either version 3 of the License, or
 
 This program is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
-along with this program. If not, see <https://www.gnu.org/licenses/>.
-
----
-
-## Additional term for MetaTrader EA
-
-This HedgeEA is provided as compiled `.ex5` file. The source code (`.mq5`)
-is not publicly available. Redistribution of this EA is permitted under GPL-3.0,
-but reverse engineering is prohibited.
-
-Full license: https://www.gnu.org/licenses/gpl-3.0.txt
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
