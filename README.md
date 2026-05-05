@@ -60,3 +60,4 @@ See [LICENSE](./LICENSE) for full terms.
 
 Trading involves risk. This EA is provided "as is" without any warranty.
 Past performance does not guarantee future results.
+
